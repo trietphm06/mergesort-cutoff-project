@@ -1,0 +1,4 @@
+Seed base: 20261111
+Sizes: [10000, 50000, 100000, 250000, 500000]
+Patterns: random, sorted, reverse, nearly_sorted
+nearly_sorted: approximately 1% random swaps from ascending order
